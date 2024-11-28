@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nory</h1>
-<h3 align="center">A motivated frontend developer from Spain</h3>
+<h3 align="center">A motivated Frontend developer Student from Spain</h3>
 
 - 🌱 I’m currently learning **React, Angular and Nodo**
 
