@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nory</h1>
-<h3 align="center">A motivated Frontend developer Student from Spain</h3>
+<h3 align="center">A motivated frontend developer from Spain</h3>
 
 - 🌱 I’m currently learning **React, Angular and Nodo**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Java, Springboot**
 
 - 📫 How to reach me **norypaolacastillo@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nory-castillo-romero-0b2103119](www.linkedin.com/in/nory-castillo-romero-0b2103119)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nory-castillo-romero-0b2103119](https://www.linkedin.com/in/nory-castillo-romero-0b2103119)
 
 - ⚡ Fun fact **People confuse my name with a sushi name**
 
